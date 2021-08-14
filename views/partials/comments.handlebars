@@ -1,13 +1,17 @@
 <div class='comments'>
 	{{#each this}}
-		<section class='comment'>
-			<div class='meta'>
-				{{user.username}}
-				on
-				{{format_date created_at}}
-			</div>
-			<div class='text'>
-				{{comment_text}}
+		<section class='flex-row justify-space-between comment'>
+			<div class='col=12 col-md-4'>
+				<div class='card'>
+					<div class='meta card-body'>
+						{{user.username}}
+						on
+						{{format_date created_at}}
+					</div>
+					<div class='text card-body'>
+						{{comment_text}}
+					</div>
+				</div>
 			</div>
 		</section>
 	{{/each}}
