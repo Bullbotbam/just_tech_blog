@@ -112,6 +112,10 @@ p {
 	box-shadow: 6px 5px var(--light-dark);
 }
 
+nav {
+	color: var(--primary);
+}
+
 .list-group {
 	padding: 0;
 	list-style: none;
