@@ -25,6 +25,9 @@ const sess = {
 		db: sequelize,
 	}),
 };
+const Handlebars = require('handlebars');
+const FakerHandlebarsHelper = require('handlebars-faker');
+Handlebars.registerHelper('faker', FakerHandlebarsHelper);
 
 app.use(session(sess));
 
