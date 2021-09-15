@@ -64,4 +64,4 @@ No testing was done
 
 ![Just Tech Blog](public/assets/just-tech-blog.png)
 
-[Just Tech Blog](https://stark-fjord-56486.herokuapp.com/)
+[Just Tech Blog](https://afternoon-anchorage-01216.herokuapp.com/)
