@@ -2,7 +2,10 @@
 <br />
 
   <h1 align="center"> Just Tech Blog </h1>
-      <h4 align='center'>A blog for Techs </h4>
+
+![Just Tech Blog Demo](public/assets/Just-tech-blog.gif)
+
+<h4 align='center'>A blog for Techs </h4>
 
 ## Table of Contents
 
@@ -58,5 +61,7 @@ There may be slight challenges with all functionality as of initial deployment
 No testing was done
 
 ## Links
+
+![Just Tech Blog](public/assets/just-tech-blog.png)
 
 [Just Tech Blog](https://stark-fjord-56486.herokuapp.com/)
